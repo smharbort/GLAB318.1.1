@@ -1,0 +1,2 @@
+/* I'm going to work on redoing things in TypeScript as I have the time and am able because I recognize how important it can/will be down the line, and we just don't
+really have the time to thoroughly go over it now */
